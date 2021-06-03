@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Instructions and propositions drawne up and agreed on by divers well affected persons in the city of London and by them referred to the consideration of all the well affected persons of the Kingdome containing divers serious and weighty incouragements to all good men to subscribe according to their ability for the raising of an army of ten thousand men of godly conversation, as additionall forces to the army raised by both houses of Parliament under the command of Robert Early of Essex : for the defence of the true Protestant religion and the liberty of the subject and the protection of the Parliament and city : a worke worthy the consideration of all true and honest-hearted christians and will much advance and expedite the great affaires of the kindome [sic] now in agitation.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24644</idno><idno type="EEBO-CITATION">12072059</idno>
+  <idno type="VID">196834</idno>
+  <idno type="EEBO-PROQUEST">2248538895</idno>
+  
+            <idno type="STC">Wing I239</idno>
+            <idno type="OCLC">12072059</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24644)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196834)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 238:E59, no 15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Instructions and propositions drawne up and agreed on by divers well affected persons in the city of London and by them referred to the consideration of all the well affected persons of the Kingdome containing divers serious and weighty incouragements to all good men to subscribe according to their ability for the raising of an army of ten thousand men of godly conversation, as additionall forces to the army raised by both houses of Parliament under the command of Robert Early of Essex : for the defence of the true Protestant religion and the liberty of the subject and the protection of the Parliament and city : a worke worthy the consideration of all true and honest-hearted christians and will much advance and expedite the great affaires of the kindome [sic] now in agitation.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T. Bates and G. Tomlinson ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Essex, Robert Devereux, --  Earl of, 1591-1646.</term>
+               <term type="geographic_name">London (England) --  History --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:196834:1"/>
+            <p>INSTRUCTIONS AND PROPOSITIONS Drawne up and agreed on by divers well affected persons in the City of <hi>London,</hi> and by them referred to the conside<g ref="char:EOLhyphen"/>ration of all the well affected persons of the Kingdome. Containing divers serious and weighty incouragements to all good men, to subscribe ac<g ref="char:EOLhyphen"/>cording to their ability, for the raising of an Army of ten thousand men of godly conversation, as additionall forces to the Army raised by both houses of Parliament, under the command of <hi>Robert</hi> Earle of <hi>Essex,</hi> for the defence of the true Protestant Religion, and the liberty of the Subject, and the proctection of the Parliament and City. A Worke worthy the consideration of all true and honest-hearted Christians, and will much advance and expedite the great affaires of the Kindome now in agitation.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license" subtype="imprimatur">
+                        <p>Imprimatur,</p>
+                        <closer>
+                           <dateline>
+                              <date>Iuly 7.</date>
+                           </dateline>
+                           <signed>Hen. Walley.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>T. Bates,</hi> and <hi>G. Tomlinson,</hi> and are to be sold at their shops, in the Old-baily, and Ludgate-hill. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="propositions">
+            <pb facs="tcp:196834:2"/>
+            <pb n="1" facs="tcp:196834:2"/>
+            <head>PROPOSITIONS.</head>
+            <p>
+               <seg rend="decorInit">I</seg>F there may be procured Authority from the high Court of Parliament, and the Earle of <hi>Essex</hi> his Ex<g ref="char:EOLhyphen"/>cellency, for the raising of an Ar<g ref="char:EOLhyphen"/>my of ten thousand Voluntier Souldiers for the deference of the High Court of Parliament and the Kingdome of <hi>England,</hi> and the pre<g ref="char:EOLhyphen"/>servation of the Kings Majesties peace, who are godly, or men of honest life or conversation, that will for the present either main<g ref="char:EOLhyphen"/>taine themselves, or take the pub<g ref="char:EOLhyphen"/>like Faith for their pay, or shall be
+<pb n="2" facs="tcp:196834:3"/> maintained by others, who will go in person and see them paid week<g ref="char:EOLhyphen"/>ly, or send their Money for doing thereof by some of the Contribu<g ref="char:EOLhyphen"/>ters, who shall goe in person to see them paid, and that the Comman<g ref="char:EOLhyphen"/>der in Chiefe may be some godly Noble man, or other godly Man of worth, and that the Colonels, Captains, and all other Comman<g ref="char:EOLhyphen"/>ders and Officers may be godly, or men of honest life and conversati<g ref="char:EOLhyphen"/>on, who out of love to the mainte<g ref="char:EOLhyphen"/>nance of the true Reformed Pro<g ref="char:EOLhyphen"/>testant Religion, the good Lawes of our Land, the precious Liberty of the Subject, and just Priviledge of Parliament, and of all well-af<g ref="char:EOLhyphen"/>fected Protestants, which will goe voluntarily upon this Service, and aske no present pay; or if greater
+<pb n="3" facs="tcp:196834:3"/> Commanders or Officers, a fourth part of their pay at most; or if in<g ref="char:EOLhyphen"/>feriour Officers and common Soul<g ref="char:EOLhyphen"/>diers part, and will take the pub<g ref="char:EOLhyphen"/>like Faith for the residue; and that the said Commanders and Officers may have all their Commissions (being brought ready with Wax so fixed) freely signed and sealed, without any Fees paid for them. Then we, whose names or marks are here under written for our selves severally, and our own parts onely, doe faithfully promise that we will lend on the publike Faith for doing thereof, such summe or summes of Money weekly, du<g ref="char:EOLhyphen"/>ring the space of six moneths, and also such Horse, Armes, and other provision for the said Army, as is or shall be subscribed under our
+<pb n="4" facs="tcp:196834:4"/> severall hands, and that wee will either goe in person with the said Armes, and pay our said Monies to the said Soldiers our selves, or pay monethly one moneths pay<g ref="char:EOLhyphen"/>ment before-hand to some other of these Contributers, who shall goe in person with the said Army to see them paid.</p>
+            <pb n="5" facs="tcp:196834:4"/>
+            <list>
+               <head>Instructions for all those to observe, who re<g ref="char:EOLhyphen"/>ceive a Copy of the promise.</head>
+               <item>FIrst, to procure as many to subscribe as you can with speed.</item>
+               <item>2. To make Copies of the pro<g ref="char:EOLhyphen"/>mise and also of these Instructions, and to disperse them into the hands of honest men, who will be active to receive those Instru<g ref="char:EOLhyphen"/>ctions both in the City and Country.</item>
+               <item>3. To inquire out both Officers, Cap<g ref="char:EOLhyphen"/>taines and Commanders, and Soldiers, so qualified, as the Proposition requires who will goe in this service according to the Propositions or promise, and take their promise in writing thus: <hi>viz.</hi> J will serve as a Captaine, Lieutenant, &amp;c. to this Proposition, and then subscribe his name.</item>
+               <item>4. Write downe the names of all such to
+<pb n="6" facs="tcp:196834:5"/> whom you disperse Copies of these Proposi<g ref="char:EOLhyphen"/>tions and Instructions, and also of all such Souldiers, Officers, or Commanders as pro<g ref="char:EOLhyphen"/>mise to goe, and of those Contributers who will goe onely to see the money paid.</item>
+               <item>5. That they in the Country that receive these Instructions send up world to these in the City that sent them the Instructions what they have done therein, <hi>viz.</hi> What any have subscribed!</item>
+               <item>6. That those who promise any money in this worke, must be told that this must not abate any payment they pay towards the maintenance of any payments already im<g ref="char:EOLhyphen"/>posed by the Parliaments authority.</item>
+               <item>7. That every actor that shall send to get subscriptions shall first himselfe subscribe money, or promise to go as a Captaine or Of<g ref="char:EOLhyphen"/>ficer, or common Souldier in this service, to incourage those whom he shall aske sub<g ref="char:EOLhyphen"/>scriptions from.</item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
